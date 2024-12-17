@@ -1,0 +1,13 @@
+name: STAT-436-Project-Milestone-3-Refinement-and-Reporting
+title: STAT-436-Project-Milestone-3-Refinement-and-Reporting
+username: aaronyu94
+account: aaronyu94
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13608500
+bundleId: 9530718
+url: https://aaronyu94.shinyapps.io/STAT-436-Project-Milestone-3-Refinement-and-Reporting/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Electronic_sales_Sep2023-Sep2024.csv|literatures/Hiippala-multimodalperspectivedata-2020.pdf|literatures/Lurie-VisualRepresentationImplications-2007.pdf|literatures/Ridley-Evaluatingdatavisualization-2020.pdf|milestone3.Rmd
